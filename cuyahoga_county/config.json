@@ -1,0 +1,10 @@
+{
+	"headless_browser"               : true,
+	"driver_type"                    : "Chrome",
+	"chrome_driver_path"             : "./chromedriver",
+	"firefox_driver_path"            : "./../web_driver/geckodriver",
+	"output_data_folder"             : "./output_data/",
+	"output_log_folder"              : "log/",
+	"main_url"                       : "https://myplace.cuyahogacounty.us/null?city=OTk=&searchBy=UGFyY2Vs&dataRequested=UHJvcGVydHkgU3VtbWFyeSBSZXBvcnQ=",
+	"input_data_folder"              : "./input_data/"
+}
